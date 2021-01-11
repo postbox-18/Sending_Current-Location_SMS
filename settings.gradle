@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Sending_Current-Location_SMS"

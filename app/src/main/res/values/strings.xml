@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sending_Current-Location_SMS</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
